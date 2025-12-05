@@ -1,0 +1,4 @@
+CAMPUS ENERGY SUMMARY
+Total Campus Consumption: 130239 kWh
+Highest Consuming Building: engineering_block
+Peak Load Hour: 10:00 hrs
